@@ -1,0 +1,14 @@
+div#result {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    background-color: #eee;
+}
+
+span.styled-dolog {
+    padding: 3px;
+    margin: 5px;
+    background-color: #aaa;
+    border-radius: 5px;
+}

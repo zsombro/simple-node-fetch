@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-fetch",
+  "version": "1.0.0",
+  "description": "A simple example of a node app and a client that fetches data from it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsombro/simple-node-fetch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsombro/simple-node-fetch/issues"
+  },
+  "homepage": "https://github.com/zsombro/simple-node-fetch#readme",
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "express": "^4.17.1"
+  }
+}
