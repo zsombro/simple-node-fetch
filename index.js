@@ -13,4 +13,4 @@ app.get('/data', (req, res) => {
 
 app.listen(8080, () => {
     console.log('listening at 8080');
-})
+});
